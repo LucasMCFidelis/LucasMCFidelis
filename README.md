@@ -2,7 +2,7 @@
 💻 Desenvolvedor Frontend e QA em Formação | Estudante de ADS  
 📚 Buscando estágio para aplicar e expandir meus conhecimentos  
 🚀 Explorando novas oportunidades e desafios no desenvolvimento de software  
-👨‍💻 Estudando **JavaScript**, **TypeScript**, **React**, **Node.js**, **Fastify**, **Cypress** e **Postman**
+👨‍💻 Habilidades em **JavaScript**, **TypeScript**, **React**, **Node.js**, **Fastify**, **Cypress** e **Postman**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasMCFidelis&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
