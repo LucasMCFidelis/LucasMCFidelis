@@ -1,4 +1,4 @@
-# 👋 Lucas Fidelis
+# Olá! Eu sou Lucas Fidelis
 
 🧪 **QA Júnior | Automação de Testes**  
 📍 João Pessoa, PB – Brasil  
